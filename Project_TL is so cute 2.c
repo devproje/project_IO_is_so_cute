@@ -2,17 +2,14 @@
 
 int main() {
 
-  int num = 0 ;
 
-  while (num==0)
+  while (true)
 
     {
 
       printf("쁘젝님 ㄱㅇㅇ..\n");
 
     }
-
-    
 
     return 0;
 
