@@ -1,16 +1,4 @@
 #include <stdio.h>
+#include <stdbool.h>
 
-int main() {
-
-
-  while (true)
-
-    {
-
-      printf("쁘젝님 ㄱㅇㅇ..\n");
-
-    }
-
-    return 0;
-
-}
+while(true) {printf("쁘젝님 ㄱㅇㅇ..\n");}
