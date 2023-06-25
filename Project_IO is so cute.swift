@@ -1,1 +1,3 @@
-print("쁘젝님 ㄱㅇㅇ..")
+while true{
+    print("쁘젝님 ㄱㅇㅇ..")
+}
